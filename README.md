@@ -11,7 +11,7 @@
 
 ```javascript
 const aboutMe = {
-   code: [Javascript, HTML, CSS, Python, Cpp, CSharp ],
+   code: ["Javascript","HTML", "CSS", "Python", "Cpp", "CSharp" ],
    technologies: {
    backEnd: {
          js: ["Node", "Express"],
