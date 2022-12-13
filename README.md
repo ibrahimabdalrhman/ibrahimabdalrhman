@@ -27,5 +27,5 @@ const aboutMe = {
 
 Check the repositories section to see my efforts! Hope, you will enjoy it!
 
-**To know more:**  [LinkedIn](https://www.linkedin.com/in/ibrahimabdalrhman), [Email](mailto:ibrahimabdalrhman20@gmail.com), [twitter](https://twitter.com/ibrahimPepo3)
+**To know more:**  [LinkedIn](https://www.linkedin.com/in/ibrahimabdalrhman), [Email](mailto:ibrahimabdalrhman20@gmail.com), [Twitter](https://twitter.com/ibrahimPepo3)
 
