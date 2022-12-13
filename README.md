@@ -24,7 +24,7 @@ Check the repositories section to see my efforts! Hope, you will enjoy it!
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
-![Docker]([https://img.shields.io/badge/-Ubuntu-black](https://raw.githubusercontent.com/simple-icons/simple-icons/2753dc3b87330651a44c0d816e3892681501f2b8/icons/docker.svg)?style=flat-square&logo=ubuntu)
+
 
 <a href="https://www.abdelrahmanbayoumi.ml/"><img align="right" width="50%" alt="Github" src="https://github-readme-stats.vercel.app/api?username=ibrahimabdalrhman&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true" /></a>
 
