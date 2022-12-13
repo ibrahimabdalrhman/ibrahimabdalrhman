@@ -13,7 +13,7 @@
 const aboutMe = {
    code: ["Javascript","HTML", "CSS", "Python", "Cpp", "CSharp" ],
    technologies: {
-   backEnd: {
+      backEnd: {
          js: ["Node", "Express"],
          csharp: ["Asp.net"],
       },
