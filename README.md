@@ -1,7 +1,5 @@
 ## Hello World!
 
-<br />
-
 ## Ibrahim Abdalrhman
 
 #### Backend Developer | Undergraduate Student
