@@ -1,4 +1,3 @@
-## Hello World!
 
 ## Ibrahim Abdalrhman
 
