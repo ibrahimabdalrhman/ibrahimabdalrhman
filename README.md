@@ -9,7 +9,6 @@
 
 **To know more:**  [LinkedIn](https://www.linkedin.com/in/ibrahimabdalrhman), [Email](ibrahimabdalrhman20@gmail.com)
 
-Check the repositories section to see my efforts! Hope, you will enjoy it!
 <br/>
 ```javascript
 const aboutMe = {
@@ -42,3 +41,4 @@ const aboutMe = {
 </br>
 </em></p>
 
+Check the repositories section to see my efforts! Hope, you will enjoy it!
