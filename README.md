@@ -9,7 +9,7 @@
 
 **To know more:**  [LinkedIn](https://www.linkedin.com/in/ibrahimabdalrhman), [Email](ibrahimabdalrhman20@gmail.com)
 
-<br/>
+
 ```javascript
 const aboutMe = {
    code: [Javascript, HTML, CSS, Python, cpp, CSharp ],
@@ -23,6 +23,7 @@ const aboutMe = {
    },
 };
 ```
+
 <br/>
 
 ### Languages and Tools:
