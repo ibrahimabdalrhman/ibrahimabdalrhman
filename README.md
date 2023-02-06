@@ -9,21 +9,6 @@
 
 
 
-```javascript
-const aboutMe = {
-   code: ["Javascript", "Python", "Cpp", "CSharp" ],
-   technologies: {
-      backEnd: {
-         js: ["Node", "Express"],
-         csharp: ["Asp.net"],
-      },
-      frontEnd: ["HTML", "CSS", "JS"],
-      databases: ["MongoDB", "mySQL", "SQLServer"],
-   },
-};
-```
-
-
 
 Check the repositories section to see my efforts! Hope, you will enjoy it!
 
