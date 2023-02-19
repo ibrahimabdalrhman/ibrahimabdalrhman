@@ -4,7 +4,7 @@
 
 #### Backend Developer | Undergraduate Student
 #### *Currently looking for Backend Developer (Node.js) | Software Engineer*
-- A final year student at Faculty of Computers and Informatics, Suez Canal University [(SCU)](http://suez.edu.eg), completing my BSc. degree in Computer Science. 
+- A final year student at Faculty of Computers and Informatics, Suez Canal University [(SCU)](http://suez.edu.eg). 
 - Currently working on some projects to gain more experience and knowledge.
 
 
