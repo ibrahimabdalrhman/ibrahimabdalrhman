@@ -2,9 +2,8 @@
 # Ibrahim Abdalrhman
 
 
-#### Backend Developer | Undergraduate Student
+#### Backend Developer | Software Engineer
 #### *Currently looking for Backend Developer (Node.js) | Software Engineer*
-- A final year student at Faculty of Computers and Informatics, Suez Canal University [(SCU)](http://suez.edu.eg). 
 - Currently working on some projects to gain more experience and knowledge.
 
 
