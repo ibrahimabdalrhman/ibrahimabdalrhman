@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences  [**My Resume** ](https://drive.google.com/file/d/1qKWlLI-jBppMVRqf8cihCzur5UWqYkV5/view?usp=sharing)
 
--    [**Linkedin** <a href="https://linkedin.com/in/ibrahimabdalrhman" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/linnovate/root-me/master/src/images/icons/linkedin.ico"  width="20" height="20"/> </a>](https://www.linkedin.com/in/ibrahimabdalrhman)
+
 
 
 
