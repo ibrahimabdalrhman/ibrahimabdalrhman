@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer</h3>
 
 
-- 🌱 I’m currently learning **Devops and Microservices**
+- 🌱 I am currently working on a project[**hidayaa**](https://hidayaa.info/))
 
 - 👨‍💻 All of my projects are available at [**Github Repository**](https://github.com/ibrahimabdalrhman?tab=repositories)
 
